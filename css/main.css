@@ -1,0 +1,48 @@
+/* Background patterns from subtlepatterns.com */
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
+.navbar-brand {
+  font-weight: 400;
+}
+.navbar {
+  background: rgba(50,50,50,.5)
+}
+
+.page-header {
+  text-align: center;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+}
+body { 
+  padding-top: 0px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
+#home {
+  background: url("http://lordmalvern.github.io/img/footer_lodyas.png") 50% 0 fixed;
+  padding: 100px;
+  box-shadow: 0 0 50px rgba(0,0,0,0.8);
+  position: relative;
+}
+#about {
+  background: url("http://lordmalvern.github.io/img/dark_embroidery.png") 50% 0 fixed;
+  padding: 100px;
+  box-shadow: 0 0 50px rgba(0,0,0,0.8);
+  position: relative;
+  color: white;
+  font-size: 24px;
+}
+
+#portfolio {
+  background: url("http://lordmalvern.github.io/img/grey_wash_wall_@2X.png") 50% 0 fixed;
+  padding: 100px;
+  box-shadow: 0 0 50px rgba(0,0,0,0.8);
+  position: relative;
+}
+#contact {
+    background: url("http://lordmalvern.github.io/img/pw_maze_black_@2X.png") 50% 0 fixed;
+  padding: 100px;
+  box-shadow: 0 0 50px rgba(0,0,0,0.8);
+  position: relative;
+  color: white;
+}
